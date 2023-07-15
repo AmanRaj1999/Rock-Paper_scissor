@@ -1,4 +1,4 @@
-# Project Name : The Meal App ![Tech Stack Used](https://img.shields.io/badge/Technologies-ReactJS-magenta)
+# Project Name : The Rock-Paper-Scissor App ![Tech Stack Used](https://img.shields.io/badge/Technologies-ReactJS-magenta)
 
 ---
 
